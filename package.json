@@ -1,4 +1,0 @@
-  "scripts": {
-    "dev": "hexo clean && hexo s",
-    "build": "hexo clean && hexo generate && gulp"
-  }
