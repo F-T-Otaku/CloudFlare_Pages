@@ -2,6 +2,7 @@
 title: 在 CloudFlare Pages 上构建应用
 date: 2021-03-03 16:36:18
 tags: 瞎扯淡
+toc: true
 ---
 > Cloudflare Pages 是 Cloudflare 新推出的一项静态内容托管平台，类似于 Netlify。目前支持从 Github 仓库中拉取内容。
 

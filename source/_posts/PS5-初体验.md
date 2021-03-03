@@ -2,6 +2,8 @@
 title: PS5 初体验
 date: 2021-03-03 15:27:46
 tags: 游戏
+toc: true
+cover: https://www.otaku.fun/pic/20210301/0.jpg
 ---
 ## 背景
 
