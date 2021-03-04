@@ -6,4 +6,4 @@ public/
 .deploy*/
 node_modules/
 
-!node_modules\hexo-theme-icarus\layout\share\addtoany.jsx
+!node_modules/hexo-theme-icarus/layout/share/addtoany.jsx
