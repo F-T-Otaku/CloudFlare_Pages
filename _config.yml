@@ -5,15 +5,15 @@
 # Site
 title: Otaku 乐园
 subtitle: 'CloudFlare Pages Vision'
-description: 'CF托管版Otaku乐园....'
-keywords:
+description: 'CloudFlare版Otaku乐园....'
+keywords: 'Otaku'
 author: F-T-Otaku
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://cf.otaku.fun
+url: https://cf.otaku.fun/
 permalink: :year-:month-:day/:title/
 permalink_defaults:
 pretty_urls:
